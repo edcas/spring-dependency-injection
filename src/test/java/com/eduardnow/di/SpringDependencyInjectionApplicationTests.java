@@ -1,4 +1,4 @@
-package com.eduardnow.springdependencyinjection;
+package com.eduardnow.di;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
