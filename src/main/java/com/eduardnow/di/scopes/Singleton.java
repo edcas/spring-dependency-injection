@@ -1,0 +1,10 @@
+package com.eduardnow.di.scopes;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class Singleton {
+
+
+
+}
